@@ -1,0 +1,74 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Sergey",
+            "surname": "Belousov",
+            "photo":"",
+            "balance": 1500      
+          },
+          {
+            "id": 2,
+            "name": "Serge",
+            "surname": "Belouso",
+            "photo":"",
+            "balance": 1500      
+          },
+          {
+            "id": 3,
+            "name": "Sergy",
+            "surname": "Belousom",
+            "photo":"",
+            "balance": 1500      
+          },
+          {
+            "id": 4,
+            "name": "Serey",
+            "surname": "Belosov",
+            "photo":"",
+            "balance": 1500      
+          },
+          {
+            "id": 5,
+            "name": "Sergey",
+            "surname": "Belousov",
+            "photo":"",
+            "balance": 1500      
+          },
+          {
+            "id": 6,
+            "name": "Segey",
+            "surname": "Beousov",
+            "photo":"",
+            "balance": 1500      
+          },
+          {
+            "id": 7,
+            "name": "Srgey",
+            "surname": "Blousov",
+            "photo":"",
+            "balance": 1500      
+          },
+          {
+            "id": 8,
+            "name": "Mergey",
+            "surname": "Nelousov",
+            "photo":"",
+            "balance": 1500      
+          },
+          {
+            "id": 9,
+            "name": "Sergea",
+            "surname": "Belousot",
+            "photo":"",
+            "balance": 1500      
+          },
+          {
+            "id": 10,
+            "name": "Sergep",
+            "surname": "Belousor",
+            "photo":"",
+            "balance": 1500      
+          },
+    ]
+}
