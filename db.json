@@ -78,70 +78,80 @@
             "name": "молоко",
             "price": 100,
             "photo": "",
-            "desc":"белое"
+            "desc":"белое",
+            "author_id": 1
         },
         {
             "id": 2,
             "name": "шоколад",
             "price": 100,
             "photo": "",
-            "desc":"молочный"
+            "desc":"молочный",
+            "author_id": 2
         },
         {
             "id": 3,
             "name": "мармелад",
             "price": 100,
             "photo": "",
-            "desc":"кислый"
+            "desc":"кислый",
+            "author_id": 3
         },
         {
             "id": 4,
             "name": "яблоки",
             "price": 100,
             "photo": "",
-            "desc":"большие"
+            "desc":"большие",
+            "author_id": 4
         },
         {
             "id": 5,
             "name": "бананы",
             "price": 100,
             "photo": "",
-            "desc":"желтые"
+            "desc":"желтые",
+            "author_id": 5
         },
         {
             "id": 6,
             "name": "конфеты",
             "price": 100,
             "photo": "",
-            "desc":"маленькие"
+            "desc":"маленькие",
+            "author_id": 6
         },
         {
             "id": 7,
             "name": "сыр",
             "price": 100,
             "photo": "",
-            "desc":"плавленный"
+            "desc":"плавленный",
+            "author_id": 7
         },
         {
             "id": 8,
             "name": "батон",
             "price": 100,
             "photo": "",
-            "desc":"нарезной"
+            "desc":"нарезной",
+            "author_id": 8
         },
         {
             "id": 9,
             "name": "мороженое",
             "price": 100,
             "photo": "",
-            "desc":"холодное"
+            "desc":"холодное",
+            "author_id": 9
         },
         {
             "id": 10,
             "name": "чипсы",
             "price": 100,
             "photo": "",
-            "desc":"с сыром"
+            "desc":"с сыром",
+            "author_id": 10
         }
     ]
 }
