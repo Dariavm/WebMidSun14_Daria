@@ -5,70 +5,70 @@
             "id": 1,
             "name": "Sergey",
             "surname": "Belousov",
-            "photo":"",
+            "photo":"https://github.com/Dariavm/WebMidSun14_Daria/blob/main/img/pe.jpg?raw=true",
             "balance": 1500      
           },
           {
             "id": 2,
             "name": "Serge",
             "surname": "Belouso",
-            "photo":"",
+            "photo":"https://github.com/Dariavm/WebMidSun14_Daria/blob/main/img/peopl.jpg?raw=true",
             "balance": 1500      
           },
           {
             "id": 3,
             "name": "Sergy",
             "surname": "Belousom",
-            "photo":"",
+            "photo":"https://github.com/Dariavm/WebMidSun14_Daria/blob/main/img/people.jpg?raw=true",
             "balance": 1500      
           },
           {
             "id": 4,
             "name": "Serey",
             "surname": "Belosov",
-            "photo":"",
+            "photo":"https://github.com/Dariavm/WebMidSun14_Daria/blob/main/img/per.jpg?raw=true",
             "balance": 1500      
           },
           {
             "id": 5,
             "name": "Sergey",
             "surname": "Belousov",
-            "photo":"",
+            "photo":"https://github.com/Dariavm/WebMidSun14_Daria/blob/main/img/pe.jpg?raw=true",
             "balance": 1500      
           },
           {
             "id": 6,
             "name": "Segey",
             "surname": "Beousov",
-            "photo":"",
+            "photo":"https://github.com/Dariavm/WebMidSun14_Daria/blob/main/img/pe.jpg?raw=true",
             "balance": 1500      
           },
           {
             "id": 7,
             "name": "Srgey",
             "surname": "Blousov",
-            "photo":"",
+            "photo":"https://github.com/Dariavm/WebMidSun14_Daria/blob/main/img/pe.jpg?raw=true",
             "balance": 1500      
           },
           {
             "id": 8,
             "name": "Mergey",
             "surname": "Nelousov",
-            "photo":"",
+            "photo":"https://github.com/Dariavm/WebMidSun14_Daria/blob/main/img/pe.jpg?raw=true",
             "balance": 1500      
           },
           {
             "id": 9,
             "name": "Sergea",
             "surname": "Belousot",
-            "photo":"",
+            "photo":"https://github.com/Dariavm/WebMidSun14_Daria/blob/main/img/pe.jpg?raw=true",
             "balance": 1500      
           },
           {
             "id": 10,
             "name": "Sergep",
             "surname": "Belousor",
-            "photo":"",
+            "photo":"https://github.com/Dariavm/WebMidSun14_Daria/blob/main/img/pe.jpg?raw=true",
             "balance": 1500      
           }
     ],
@@ -77,7 +77,7 @@
             "id": 1,
             "name": "молоко",
             "price": 100,
-            "photo": "",
+            "photo": "https://github.com/Dariavm/WebMidSun14_Daria/blob/main/img/milk.png?raw=true",
             "desc":"белое",
             "author_id": 1
         },
@@ -85,7 +85,7 @@
             "id": 2,
             "name": "шоколад",
             "price": 100,
-            "photo": "",
+            "photo": "https://github.com/Dariavm/WebMidSun14_Daria/blob/main/img/r.jpg?raw=true",
             "desc":"молочный",
             "author_id": 2
         },
@@ -93,7 +93,7 @@
             "id": 3,
             "name": "мармелад",
             "price": 100,
-            "photo": "",
+            "photo": "https://github.com/Dariavm/WebMidSun14_Daria/blob/main/img/mar.jpg?raw=true",
             "desc":"кислый",
             "author_id": 3
         },
@@ -101,7 +101,7 @@
             "id": 4,
             "name": "яблоки",
             "price": 100,
-            "photo": "",
+            "photo": "https://github.com/Dariavm/WebMidSun14_Daria/blob/main/img/apple.png?raw=true",
             "desc":"большие",
             "author_id": 4
         },
@@ -109,7 +109,7 @@
             "id": 5,
             "name": "бананы",
             "price": 100,
-            "photo": "",
+            "photo": "https://github.com/Dariavm/WebMidSun14_Daria/blob/main/img/banana.jpg?raw=true",
             "desc":"желтые",
             "author_id": 5
         },
@@ -117,7 +117,7 @@
             "id": 6,
             "name": "конфеты",
             "price": 100,
-            "photo": "",
+            "photo": "https://github.com/Dariavm/WebMidSun14_Daria/blob/main/img/k.jpg?raw=true",
             "desc":"маленькие",
             "author_id": 6
         },
@@ -125,7 +125,7 @@
             "id": 7,
             "name": "сыр",
             "price": 100,
-            "photo": "",
+            "photo": "https://github.com/Dariavm/WebMidSun14_Daria/blob/main/img/s.jpg?raw=true",
             "desc":"плавленный",
             "author_id": 7
         },
@@ -133,7 +133,7 @@
             "id": 8,
             "name": "батон",
             "price": 100,
-            "photo": "",
+            "photo": "https://github.com/Dariavm/WebMidSun14_Daria/blob/main/img/b.jpg?raw=true",
             "desc":"нарезной",
             "author_id": 8
         },
@@ -141,7 +141,7 @@
             "id": 9,
             "name": "мороженое",
             "price": 100,
-            "photo": "",
+            "photo": "https://github.com/Dariavm/WebMidSun14_Daria/blob/main/img/r.jpg?raw=true",
             "desc":"холодное",
             "author_id": 9
         },
@@ -149,7 +149,7 @@
             "id": 10,
             "name": "чипсы",
             "price": 100,
-            "photo": "",
+            "photo": "https://github.com/Dariavm/WebMidSun14_Daria/blob/main/img/p.png?raw=true",
             "desc":"с сыром",
             "author_id": 10
         }
